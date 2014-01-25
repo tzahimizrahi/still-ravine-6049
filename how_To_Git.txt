@@ -1,0 +1,14 @@
+
+
+$ git commit -am "Adding twitter link"
+  Created commit f2cd831: Adding twitter link
+  1 files changed, 1 insertions(+), 0 deletions(-)
+
+$ git push origin master
+  Counting objects: 7, done.
+  Compressing objects: 100% (4/4), done.
+  Writing objects: 100% (4/4), 407 bytes, done.
+  Total 4 (delta 2), reused 0 (delta 0)
+  To git@github.com:qrush/gitready.git
+     361303d..f2cd831  master -> master
+
